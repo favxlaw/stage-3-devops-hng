@@ -32,5 +32,3 @@ async def get_logs():
 
     return logs
 
-if __name__ == '__main__':
-    app.run(debug=True)
